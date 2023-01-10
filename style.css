@@ -1,12 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/cocogoose');
+
 * {
   box-sizing: border-box;
-  font-family: 'Lato', sans-serif;
 }
 
 @media only screen and (max-width: 768px) {
   body {
     background-color: #f9f9f9;
     width: 100%;
+    font-family: 'Lato', sans-serif;
   }
 
   .homepage {
@@ -43,9 +45,9 @@
 
   #hamburger span {
     display: block;
-    height: 6px;
+    height: 4px;
     background-color: #43403f;
-    width: 30px;
+    width: 35px;
   }
 
   #hamburger span:not(:last-child) {
@@ -376,6 +378,24 @@
     font-size: 20px;
   }
 
+  .speaker {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+
+  .speaker-img {
+    height: 120px;
+    width: 120px;
+  }
+
+  .speaker-pos {
+    color: #ec5242;
+    font-style: italic;
+    margin-top: 4px;
+  }
+
   #sponsors-btn {
     color: #43403f;
     border-color: #43403f;
@@ -407,6 +427,10 @@
 }
 
 @media only screen and (min-width: 768px) {
+  body {
+    font-family: 'Lato', sans-serif;
+  }
+
   #logo {
     border-radius: 50%;
     height: 70px;
@@ -424,6 +448,11 @@
     right: 0;
     padding: 8px 120px 8px 8px;
     background-color: #43403f;
+  }
+
+  .about-speaker h3 {
+    padding: 0;
+    margin: 8px 0;
   }
 
   footer a {
@@ -494,6 +523,7 @@
   #home h1,
   #description h1 {
     -webkit-background-clip: text;
+    font-family: 'COCOGOOSE', sans-serif;
     background-clip: var(text);
     background-image: url(./Images/pic1.jpg);
     color: rgba(251, 82, 45, 0.8);
@@ -666,14 +696,47 @@
     font-size: 20px;
   }
 
-  #sponsors {
+  #speakers {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+    margin: 0 80px 20px;
+  }
+
+  .speaker {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: center;
-    width: 100%;
-    gap: 20px;
-    margin: 30px 0 50px 0;
+    max-height: 200px;
+  }
+
+  .speaker-img {
+    max-width: 300px;
+    height: 70%;
+    margin-right: 10px;
+  }
+
+  .speaker-sep {
+    border-bottom: 2px solid #d3d3d3;
+    width: 8%;
+  }
+
+  .speaker-pos {
+    color: #ec5242;
+    font-style: italic;
+    padding: 0;
+    margin: 0 0 8px;
+  }
+
+  .about-speaker {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-height: 70px;
+  }
+
+  .bio {
+    padding: 0;
+    margin: 8px 0;
   }
 
   #sponsors-btn {

@@ -324,7 +324,7 @@
   }
 
   #about {
-    background-image: url(images/program-bg.jpg);
+    background-image: url(./Images/program-bg.jpg);
     margin: 0 0 0 -7.5px;
     display: flex;
     flex-direction: column;

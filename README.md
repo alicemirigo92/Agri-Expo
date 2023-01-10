@@ -42,7 +42,7 @@ Alice Gathoni
 Live Demo
 Add a link to your deployed project.
 
-Live Demo https://alicemirigo92.github.io/alicemirigodesktop.github.io/
+Live Demo https://alicemirigo92.github.io/Agri-Expo/
 
 Feel free to check the [issues page](../../issues/).
 

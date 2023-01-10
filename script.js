@@ -28,7 +28,7 @@ const allSpeakers = [
   {
     name: 'Malik',
     position: 'Accountant at Agri Foils',
-    image: './Images/Malik.jpg',
+    image: './Images/malik.jpg',
     bio: 'He is responsible for the smooth running of operations at Agri foils. His thesis on financial implications of Climate chenge bore him the 2012 Agri Expo award.',
   },
   {

@@ -37,8 +37,6 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🤝 Contributing
  
- Loom video
- https://www.loom.com/share/24f7518aec3740f49da40aec0354787d
 
 Alice Gathoni
 

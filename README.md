@@ -44,6 +44,7 @@ Live Demo
 Add a link to your deployed project.
 
 Live Demo https://alicemirigo92.github.io/Agri-Expo/
+Loom video https://www.loom.com/share/24f7518aec3740f49da40aec0354787d
 
 Feel free to check the [issues page](../../issues/).
 

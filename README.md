@@ -36,6 +36,9 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [LinkedIn](www.linkedin.com/in/alice-mirigo)
 
 ## 🤝 Contributing
+ 
+ Loom video
+ https://www.loom.com/share/24f7518aec3740f49da40aec0354787d
 
 Alice Gathoni
 
@@ -52,8 +55,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+According to the requirement, i acknowledge Cindy Shin the author of the original design, as required by the Creative Commons License.
 
 ## 📝 License
 

@@ -64,4 +64,3 @@ allSpeakers.forEach((s) => {
                 </div>
             </div>`
 })
-console.log(speakers);

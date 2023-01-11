@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a name="Alice Gathoni"></a>
 
 <!--
 HOW TO USE:
@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > In this project i created my first conference project. This entail agricultural expo.
 
-**[your_project__name]** is a...AGRI-EXPO-CAPSTONE!
+**[AGRI-EXPO-CAPSTONE!]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 Use HTML/CSS
